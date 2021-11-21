@@ -5,8 +5,8 @@ This week’s Challenge is to build an application that an employee can use to g
 <a href="https://joshualintz.github.io/horiseon-refactor/"><img width="728" src="./assets/images/03-javascript-homework-demo-1.png" alt="Demo"></a>
 
 ## Links
-* Live Site: https://joshualintz.github.io/horiseon-refactor/
-* Code Repo: https://github.com/joshualintz/horiseon-refactor 
+* Live Site: https://joshualintz.github.io/password-generator/
+* Code Repo: https://github.com/joshualintz/password-generator
 
 ## Built With
 * HTML
