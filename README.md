@@ -1,5 +1,18 @@
 # Password Generator
 
+This week’s Challenge is to build an application that an employee can use to generate a random password based on criteria they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript. It has a minimal, clean and polished user interface that is responsive -- ensuring that it adapts to multiple screen sizes.
+
+<a href="https://joshualintz.github.io/horiseon-refactor/"><img width="728" src="./assets/images/03-javascript-homework-demo-1.png" alt="Demo"></a>
+
+## Links
+* Live Site: https://joshualintz.github.io/horiseon-refactor/
+* Code Repo: https://github.com/joshualintz/horiseon-refactor 
+
+## Built With
+* HTML
+* CSS
+* JavaScript
+
 ## Your Task
 
 This week’s Challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. This week’s coursework will teach you all the skills you need to succeed in this assignment.
